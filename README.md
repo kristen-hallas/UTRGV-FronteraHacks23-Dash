@@ -25,9 +25,9 @@ Python libraries required for this code to work:
 * Dash
 
 ## Navigating this repo
-* `exploring-v1.ipynb` is an introductory guided walkthrough to using pandas dataframes and making plotly plots
+* `exploring-v1.ipynb` is an introductory guide to using pandas dataframes and making plotly plots
 * `exploring-v2.ipynb` contains a bunch more plot examples, including examples with timeseries data 
 * `/app/` folder is where the Dash app and assets can be accessed and modified as you see fit
 * `Frontera Hacks.pdf` contains my workshop slides 
 
-Thanks for reading :) 
+Thanks for reading :) feel free to download this whole repo, and have fun! 
